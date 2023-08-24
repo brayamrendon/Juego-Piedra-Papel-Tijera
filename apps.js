@@ -1,0 +1,1 @@
+document.getElementById("puntaje-usuario-computador").innerText=100;
