@@ -1,0 +1,9 @@
+h1{
+    color: rgb(25, 187, 55);
+    text-align:center ;
+}
+
+.puntajes{
+    display: flex;
+    justify-content: space-around;
+}
