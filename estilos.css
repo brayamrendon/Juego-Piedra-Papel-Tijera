@@ -7,4 +7,14 @@ h1{
     display: flex;
     justify-content: space-around;
 }
-    
+
+.manos{
+    display: flex;
+    justify-content: space-around;   
+};
+
+.mano{
+    width: 40px;
+}
+
+
